@@ -1,2 +1,2 @@
 # pharmacie
-Projet Pharmacie
+Projet BTS SIO 2 Pharmacie SAUTEUHZ
